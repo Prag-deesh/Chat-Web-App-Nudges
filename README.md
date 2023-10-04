@@ -1,0 +1,2 @@
+# Chat-Web-App-Nudges
+ This project’s background is based on connecting people, chatting texting, sharing images or docs. This chatting web app uses cloud storage to store user and chat details and visualize to users with authentication. Main goal of this project is it can be used by anyone to connect with other users in the app for texting and sharing images, documents and their chats are kept secure.
