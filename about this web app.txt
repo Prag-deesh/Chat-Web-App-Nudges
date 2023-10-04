@@ -1,0 +1,13 @@
+Nudges
+
+this is a web application 
+it has 3 pages (signup , login , home)
+new user must create an account (signup) in this web app
+once the user created an account then login wiht credentials 
+the authentication os this app is done by Firebase authentication based on email and password
+after authentication the data of the person contacts and chat information is retrieved from database to the frontend
+the data of contacts and data of chats is stored in Firebase Firestore which is cloud database (no schema database)
+search bar is present for searching other users and chat with them
+input box is there for chatting text and attaching pictures to the chat
+all the person , chats , time are collected as information 
+ThankYou
